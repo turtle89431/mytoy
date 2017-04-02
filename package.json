@@ -1,0 +1,29 @@
+{
+  "name": "mytoy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turtle89431/mytoy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turtle89431/mytoy/issues"
+  },
+  "homepage": "https://github.com/turtle89431/mytoy#readme",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
